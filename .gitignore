@@ -1,4 +1,11 @@
 **/.gradle
 **/.settings
+<<<<<<< HEAD
 /koodi/viikko3/HelloCucumber/.nb-gradle/
 /koodi/viikko3/HelloCucumber/build/
+=======
+**/.classpath
+**/.project
+**/bin
+.vscode/
+>>>>>>> de1d4784049abc222ed7592192c329a15aa32aa0
